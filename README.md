@@ -24,7 +24,8 @@
 
 * `API_HASH` Get it From mytelegram.org
 
-* `BOT_TOKEN` Get it from [@Botfather](https://t.me/botfather)
+* `7057661131:AAFHBx9BobNaTusc0NLot1qCaVbsXDb6c_c
+` Get it from [@Botfather](https://t.me/botfather)
 
 
 ### Bot Commands 
